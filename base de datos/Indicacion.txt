@@ -1,0 +1,5 @@
+
+Hay dos interfase:
+1- Usuario normal: antonio Contraseña: orellana
+2- Administrador: david Contraseña: andrade
+
